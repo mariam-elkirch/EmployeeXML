@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><employees>
+       <employee id="100">
+        <firstname>mariam</firstname>
+        <lastname>mahmoud</lastname>
+        <email>mar@gmail.com</email>
+        <address>ibrahmia</address>
+    </employee>
+     <employee id="2001">
+        <firstname>yomna</firstname>
+        <lastname>ali</lastname>
+        <email>yomna@gmail.com</email>
+        <address>miami</address>
+    </employee>
+    
+    <employee id="3001">
+        <firstname>heba</firstname>
+        <lastname>ahmed</lastname>
+        <email>heba@gmail.com</email>
+        <address>janaklis</address>
+    </employee>
+     
+    
+    
+<employee id="44"><firstname>khaled</firstname><lastname>mohamed</lastname><email>k@gmail</email><address>alx</address></employee></employees>
